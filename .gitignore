@@ -1,0 +1,26 @@
+﻿# Secrets
+.env
+*.env
+!.env.example
+
+# Donnees et backups
+backup/
+*.dump
+*.sql
+postgres_data/
+
+# Code source (prive)
+app*.py*
+*.dockerfile
+docker-compose*.yaml
+requirements*.txt*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

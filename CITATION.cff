@@ -1,0 +1,28 @@
+﻿cff-version: 1.2.0
+message: "If you use this API in your research, please cite it as below."
+type: software
+title: "IA Biais Initiative - API REST"
+abstract: >-
+  API REST ouverte pour l'etude, la detection et la gouvernance des biais
+  des systemes d'intelligence artificielle. Contient 250 biais documentes,
+  68 reglementations mondiales, 21 vues analytiques et 17 fonctions RPC,
+  organises selon la taxonomie TriAxis (Origine x Lifecycle x Specifique).
+authors:
+  - family-names: SIDIBE
+    given-names: Mohamadou
+    affiliation: "IA Biais Initiative"
+    email: contact@ia-biais-initiative.org
+version: 1.0.0
+date-released: 2026-10-15
+license: CC-BY-4.0
+url: "https://github.com/SidibeMoh/ia-biais-initiative-api"
+repository-code: "https://github.com/SidibeMoh/ia-biais-initiative-api"
+keywords:
+  - artificial intelligence
+  - AI bias
+  - algorithmic fairness
+  - AI governance
+  - AI regulation
+  - machine learning ethics
+  - trustworthy AI
+  - taxonomy
