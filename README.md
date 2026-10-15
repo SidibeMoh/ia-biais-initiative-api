@@ -4,7 +4,7 @@
 
 API REST ouverte pour l'etude, la detection et la gouvernance des biais des systemes d'intelligence artificielle.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23400341.svg)](https://doi.org/10.5281/zenodo.23400341)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -80,8 +80,8 @@ Si vous utilisez cette API dans vos travaux, merci de citer :
   year         = 2026,
   publisher    = {Zenodo},
   version      = {1.0.0},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.23400341},
+  url          = {https://doi.org/10.5281/zenodo.23400341}
 }
 ```
 

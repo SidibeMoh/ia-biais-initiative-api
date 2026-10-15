@@ -13,6 +13,7 @@ authors:
     affiliation: "IA Biais Initiative"
     email: contact@ia-biais-initiative.org
 version: 1.0.0
+doi: 10.5281/zenodo.23400341
 date-released: 2026-10-15
 license: CC-BY-4.0
 url: "https://github.com/SidibeMoh/ia-biais-initiative-api"
